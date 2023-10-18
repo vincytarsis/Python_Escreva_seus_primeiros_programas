@@ -1,0 +1,9 @@
+Onde parei no livro?
+
+pagina 14 - Operadores aritméticos
+pagina 17 - Criando e manipulando texto: strings
+
+pagina 20 - Principais métodos
+	-4.4.2. Métodos adicionais sobre tipos inteiros
+	-4.4.4. Hashing de tipos numéricos
+		Baixe o Github Desktop e Pychrm par ir fazendo o exemplo
